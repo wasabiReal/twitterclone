@@ -1,0 +1,22 @@
+[2023-03-06 21:14:23] Error text: Undefined variable $test | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:52
+_________________________
+[2023-03-06 21:14:47] Error text: Undefined variable $test | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:52
+_________________________
+[2023-03-06 21:15:02] Error text: Undefined variable $test | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:52
+_________________________
+[2023-03-06 21:15:20] Error text: Undefined variable $test | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:52
+_________________________
+[2023-03-06 21:15:27] Error text: Undefined variable $test | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:52
+_________________________
+[2023-03-06 21:15:51] Error text: Undefined variable $test | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:52
+_________________________
+[2023-03-06 21:15:58] Error text: Undefined variable $test | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:52
+_________________________
+[2023-03-06 21:17:37] Error text: Undefined variable $test | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:53
+_________________________
+[2023-03-06 21:19:02] Error text: Exception | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:54
+_________________________
+[2023-03-06 21:20:13] Error text: Call to undefined function test() | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:56
+_________________________
+[2023-03-06 21:20:33] Error text: Call to undefined function test() | File: D:\OpenServer\domains\phpframework\public\test\error\index.php:56
+_________________________
